@@ -88,7 +88,3 @@ Download the template, required fonts, and full font bundle from this repository
 🔗 <https://github.com/drsrasouli-boop/pgu-thesis>
 
 </div>
-
----
-
-## 📂 Project Structure | ساختار پروژه
